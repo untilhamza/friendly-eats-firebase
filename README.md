@@ -10,5 +10,4 @@ For more information about Firestore visit [the docs][firestore-docs].
 
 
 ## License
-
-© Google, 2018. Licensed under an [Apache-2](./LICENSE) license.
+MIT
